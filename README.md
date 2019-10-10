@@ -1,5 +1,5 @@
 # Taller-aprendizaje-automatico-con-Python
-Actividades del curso
+
 El objetivo de esta presentación y las actividades que la acompañan es brindar una introducción y conceptos básicos relacionados con el aprendizaje automático en el idioma español.
 
 También se busca que se conozcan herramientas útiles para usar algoritmos de clasificación. Varias de las actividades han sido basadas en trabajos de otras personas que han sido referenciadas, como tutoriales del software Orange data mining y Tensorflow.
