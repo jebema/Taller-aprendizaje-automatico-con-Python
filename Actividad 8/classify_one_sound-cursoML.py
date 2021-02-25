@@ -5,7 +5,8 @@ import numpy as np
 from scipy.io import wavfile 
 from hmmlearn import hmm
 from python_speech_features import mfcc
-from sklearn.externals import joblib
+#from sklearn.externals import joblib
+import joblib
 
 # Function to parse input arguments
 def build_arg_parser():
